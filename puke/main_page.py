@@ -71,3 +71,4 @@ class Main_page():
         pygame.time.wait(2000)
         self.render()
 
+# 主界面
