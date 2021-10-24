@@ -47,3 +47,4 @@ if __name__ == '__main__':
             if b["status"] == 1:
                 status = 1
             del a
+# 主函数
