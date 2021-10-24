@@ -1,11 +1,4 @@
-#!/usr/bin/env python
-# -*- coding: UTF-8 -*-
-'''
-@Project ：puke 
-@File ：main.py
-@Author ：抱着欣欣看月亮
-@Date ：2021/10/21 21:52 
-'''
+
 import login
 import main_page
 import people_to_people,people_to_computer
