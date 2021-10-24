@@ -307,3 +307,4 @@ class Qipan():
         return 1
 
 # Qipan().run()
+# 游戏算法
