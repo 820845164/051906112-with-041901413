@@ -214,3 +214,4 @@ class People_to_computer(qipan.Qipan):
         self.clock.tick(30)
         return True, None
 # People_to_computer().run()
+# 人机
